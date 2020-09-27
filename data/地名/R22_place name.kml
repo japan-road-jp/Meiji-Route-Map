@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Style id="waypoint_n">
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<StyleMap id="waypoint">
+<Pair>
+<key>normal</key>
+<styleUrl>#waypoint_n</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#waypoint_h</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="waypoint_h">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Waypoints</name>
+<Placemark>
+<name>東觜崎</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.555672,34.889872,34.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>千本</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.488875,34.943039,97.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>三日月</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.435831,34.986875,149.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>平福</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.371383,35.047050,153.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>辻堂</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.326497,35.110422,249.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>古町</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.324908,35.122689,244.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>坂根</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.334556,35.204058,479.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>駒帰</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.316511,35.222492,455.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>智頭</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.229361,35.270292,212.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>用瀬</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.204897,35.342072,89.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>布袋</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.205508,35.425186,21.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>円通寺</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.210264,35.438486,13.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>鳥取</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.237067,35.503439,16.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+</Document>
+</kml>

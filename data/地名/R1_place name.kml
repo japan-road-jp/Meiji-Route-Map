@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Style id="waypoint_n">
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<StyleMap id="waypoint">
+<Pair>
+<key>normal</key>
+<styleUrl>#waypoint_n</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#waypoint_h</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="waypoint_h">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>明治国道1号_地名</name>
+<Placemark>
+<name>日本橋</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>139.774539,35.684150,3.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>品川</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>139.742503,35.619589,3.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>川崎</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>139.701273,35.531081,2.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>神奈川</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>139.630719,35.470775,4.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>横浜港</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>139.643595,35.448031,0.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+</Document>
+</kml>

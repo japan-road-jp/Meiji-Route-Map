@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Folder>
+<name>明治国道16号_1892年改正</name>
+<Placemark>
+<name>明治国道16号_1892年改正</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>5</width>
+</LineStyle>
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/track.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<ExtendedData>
+	<Data name="LineStyle">
+		<value>1</value>
+	</Data>
+</ExtendedData>
+<gx:Track>
+<when>2020-06-15T05:11:06Z</when>
+<when>2020-06-15T05:11:16Z</when>
+<when>2020-06-15T05:11:26Z</when>
+<when>2020-06-15T05:11:36Z</when>
+<when>2020-06-15T05:11:46Z</when>
+<when>2020-06-15T05:11:56Z</when>
+<when>2020-06-15T05:12:06Z</when>
+<when>2020-06-15T05:12:16Z</when>
+<when>2020-06-15T05:12:26Z</when>
+<when>2020-06-15T05:12:36Z</when>
+<when>2020-06-15T05:12:46Z</when>
+<when>2020-06-15T05:12:56Z</when>
+<when>2020-06-15T05:13:06Z</when>
+<when>2020-06-15T05:13:16Z</when>
+<when>2020-06-15T05:13:26Z</when>
+<when>2020-06-15T05:13:36Z</when>
+<when>2020-06-15T05:13:46Z</when>
+<when>2020-06-15T05:13:56Z</when>
+<when>2020-06-15T05:14:06Z</when>
+<when>2020-06-15T05:14:16Z</when>
+<when>2020-06-15T05:14:26Z</when>
+<when>2020-06-15T05:14:36Z</when>
+<when>2020-06-15T05:14:41Z</when>
+<when>2020-06-15T05:14:43Z</when>
+<when>2020-06-15T05:14:43Z</when>
+<when>2020-06-15T05:14:44Z</when>
+<when>2020-06-15T05:14:46Z</when>
+<when>2020-06-15T05:14:56Z</when>
+<when>2020-06-15T05:15:06Z</when>
+<when>2020-06-15T05:15:16Z</when>
+<when>2020-06-15T05:15:26Z</when>
+<when>2020-06-15T05:15:36Z</when>
+<when>2020-06-15T05:15:46Z</when>
+<when>2020-06-15T05:15:56Z</when>
+<when>2020-06-15T05:16:06Z</when>
+<when>2020-06-15T05:16:11Z</when>
+<when>2020-06-15T05:16:16Z</when>
+<when>2020-06-15T05:16:26Z</when>
+<when>2020-06-15T05:16:36Z</when>
+<when>2020-06-15T05:16:46Z</when>
+<when>2020-06-15T05:16:56Z</when>
+<when>2020-06-15T05:17:06Z</when>
+<when>2020-06-15T05:17:16Z</when>
+<when>2020-06-15T05:17:26Z</when>
+<when>2020-06-15T05:17:36Z</when>
+<when>2020-06-15T05:17:46Z</when>
+<when>2020-06-15T05:17:56Z</when>
+<when>2020-06-15T05:18:06Z</when>
+<when>2020-06-15T05:18:16Z</when>
+<when>2020-06-15T05:18:26Z</when>
+<when>2020-06-15T05:18:36Z</when>
+<when>2020-06-15T05:18:46Z</when>
+<when>2020-06-15T05:18:56Z</when>
+<when>2020-06-15T05:19:06Z</when>
+<when>2020-06-15T05:19:16Z</when>
+<when>2020-06-15T05:19:26Z</when>
+<when>2020-06-15T05:19:36Z</when>
+<when>2020-06-15T05:19:46Z</when>
+<when>2020-06-15T05:19:56Z</when>
+<when>2020-06-15T05:20:06Z</when>
+<when>2020-06-15T05:20:16Z</when>
+<when>2020-06-15T05:20:26Z</when>
+<when>2020-06-15T05:20:36Z</when>
+<when>2020-06-15T05:20:46Z</when>
+<when>2020-06-15T05:20:56Z</when>
+<when>2020-06-15T05:21:01Z</when>
+<when>2020-06-15T05:21:06Z</when>
+<when>2020-06-15T05:21:16Z</when>
+<when>2020-06-15T05:21:21Z</when>
+<when>2020-06-15T05:21:26Z</when>
+<when>2020-06-15T05:21:36Z</when>
+<when>2020-06-15T05:21:46Z</when>
+<when>2020-06-15T05:21:56Z</when>
+<when>2020-06-15T05:22:06Z</when>
+<when>2020-06-15T05:22:16Z</when>
+<when>2020-06-15T05:22:26Z</when>
+<when>2020-06-15T05:22:36Z</when>
+<when>2020-06-15T05:22:46Z</when>
+<when>2020-06-15T05:22:56Z</when>
+<when>2020-06-15T05:23:06Z</when>
+<when>2020-06-15T05:23:16Z</when>
+<when>2020-06-15T05:23:26Z</when>
+<when>2020-06-15T05:23:36Z</when>
+<when>2020-06-15T05:23:46Z</when>
+<when>2020-06-15T05:23:56Z</when>
+<when>2020-06-15T05:24:06Z</when>
+<when>2020-06-15T05:24:16Z</when>
+<when>2020-06-15T05:24:26Z</when>
+<when>2020-06-15T05:24:36Z</when>
+<when>2020-06-15T05:24:46Z</when>
+<when>2020-06-15T05:24:56Z</when>
+<when>2020-06-15T05:25:01Z</when>
+<when>2020-06-15T05:25:06Z</when>
+<when>2020-06-15T05:25:16Z</when>
+<when>2020-06-15T05:25:21Z</when>
+<when>2020-06-15T05:25:26Z</when>
+<when>2020-06-15T05:25:28Z</when>
+<when>2020-06-15T05:25:31Z</when>
+<when>2020-06-15T05:25:36Z</when>
+<when>2020-06-15T05:25:46Z</when>
+<when>2020-06-15T05:25:56Z</when>
+<when>2020-06-15T05:26:06Z</when>
+<when>2020-06-15T05:26:16Z</when>
+<when>2020-06-15T05:26:26Z</when>
+<when>2020-06-15T05:26:36Z</when>
+<when>2020-06-15T05:26:46Z</when>
+<when>2020-06-15T05:26:56Z</when>
+<when>2020-06-15T05:27:06Z</when>
+<when>2020-06-15T05:27:16Z</when>
+<when>2020-06-15T05:27:26Z</when>
+<when>2020-06-15T05:27:36Z</when>
+<when>2020-06-15T05:27:46Z</when>
+<when>2020-06-15T05:27:56Z</when>
+<when>2020-06-15T05:28:06Z</when>
+<when>2020-06-15T05:28:16Z</when>
+<when>2020-06-15T05:28:26Z</when>
+<when>2020-06-15T05:28:36Z</when>
+<when>2020-06-15T05:28:46Z</when>
+<when>2020-06-15T05:28:56Z</when>
+<when>2020-06-15T05:29:06Z</when>
+<when>2020-06-15T05:29:16Z</when>
+<when>2020-06-15T05:29:26Z</when>
+<when>2020-06-15T05:29:36Z</when>
+<when>2020-06-15T05:29:46Z</when>
+<when>2020-06-15T05:29:56Z</when>
+<when>2020-06-15T05:30:06Z</when>
+<when>2020-06-15T05:30:16Z</when>
+<gx:coord>139.105888 35.628558 245.000000</gx:coord>
+<gx:coord>139.105502 35.628198 241.000000</gx:coord>
+<gx:coord>139.105695 35.627631 240.000000</gx:coord>
+<gx:coord>139.105953 35.626619 238.000000</gx:coord>
+<gx:coord>139.106286 35.625733 236.000000</gx:coord>
+<gx:coord>139.105835 35.625338 232.000000</gx:coord>
+<gx:coord>139.105095 35.625606 230.000000</gx:coord>
+<gx:coord>139.104622 35.626207 230.000000</gx:coord>
+<gx:coord>139.104215 35.626447 229.000000</gx:coord>
+<gx:coord>139.103893 35.626756 228.000000</gx:coord>
+<gx:coord>139.103807 35.627134 229.000000</gx:coord>
+<gx:coord>139.103936 35.627923 231.000000</gx:coord>
+<gx:coord>139.103936 35.628301 232.000000</gx:coord>
+<gx:coord>139.103614 35.627700 229.000000</gx:coord>
+<gx:coord>139.103592 35.626705 226.000000</gx:coord>
+<gx:coord>139.103979 35.626104 226.000000</gx:coord>
+<gx:coord>139.104773 35.625314 228.000000</gx:coord>
+<gx:coord>139.104944 35.624421 225.000000</gx:coord>
+<gx:coord>139.104837 35.623391 219.000000</gx:coord>
+<gx:coord>139.104923 35.623014 216.000000</gx:coord>
+<gx:coord>139.105159 35.622791 215.000000</gx:coord>
+<gx:coord>139.106104 35.622729 216.000000</gx:coord>
+<gx:coord>139.106586 35.623029 221.000000</gx:coord>
+<gx:coord>139.107134 35.623055 224.000000</gx:coord>
+<gx:coord>139.107069 35.622806 222.000000</gx:coord>
+<gx:coord>139.106683 35.622643 218.000000</gx:coord>
+<gx:coord>139.106810 35.620978 205.000000</gx:coord>
+<gx:coord>139.107261 35.620687 205.000000</gx:coord>
+<gx:coord>139.107498 35.618815 194.000000</gx:coord>
+<gx:coord>139.107312 35.618138 190.000000</gx:coord>
+<gx:coord>139.106672 35.616986 184.000000</gx:coord>
+<gx:coord>139.106232 35.616319 181.000000</gx:coord>
+<gx:coord>139.105867 35.615907 182.000000</gx:coord>
+<gx:coord>139.105631 35.615152 191.000000</gx:coord>
+<gx:coord>139.105152 35.614787 204.000000</gx:coord>
+<gx:coord>139.104497 35.614787 208.000000</gx:coord>
+<gx:coord>139.103914 35.614963 207.000000</gx:coord>
+<gx:coord>139.102453 35.615502 204.000000</gx:coord>
+<gx:coord>139.100897 35.615979 213.000000</gx:coord>
+<gx:coord>139.099318 35.616480 222.000000</gx:coord>
+<gx:coord>139.098234 35.617085 228.000000</gx:coord>
+<gx:coord>139.097543 35.617126 233.000000</gx:coord>
+<gx:coord>139.096743 35.617760 238.000000</gx:coord>
+<gx:coord>139.095754 35.617679 246.000000</gx:coord>
+<gx:coord>139.095092 35.617836 250.000000</gx:coord>
+<gx:coord>139.093870 35.617603 256.000000</gx:coord>
+<gx:coord>139.093157 35.617289 259.000000</gx:coord>
+<gx:coord>139.092113 35.617383 264.000000</gx:coord>
+<gx:coord>139.091662 35.617091 265.000000</gx:coord>
+<gx:coord>139.091447 35.616474 264.000000</gx:coord>
+<gx:coord>139.089902 35.615598 268.000000</gx:coord>
+<gx:coord>139.085203 35.613538 284.000000</gx:coord>
+<gx:coord>139.083808 35.613075 281.000000</gx:coord>
+<gx:coord>139.081706 35.613160 283.000000</gx:coord>
+<gx:coord>139.080204 35.613487 289.000000</gx:coord>
+<gx:coord>139.078702 35.613916 293.000000</gx:coord>
+<gx:coord>139.076899 35.614190 293.000000</gx:coord>
+<gx:coord>139.075998 35.614396 293.000000</gx:coord>
+<gx:coord>139.075333 35.614688 294.000000</gx:coord>
+<gx:coord>139.073466 35.614826 292.000000</gx:coord>
+<gx:coord>139.070440 35.614105 289.000000</gx:coord>
+<gx:coord>139.069561 35.613504 283.000000</gx:coord>
+<gx:coord>139.067694 35.613160 279.000000</gx:coord>
+<gx:coord>139.067350 35.612851 274.000000</gx:coord>
+<gx:coord>139.066127 35.612886 273.000000</gx:coord>
+<gx:coord>139.064571 35.612273 265.000000</gx:coord>
+<gx:coord>139.063684 35.612593 267.000000</gx:coord>
+<gx:coord>139.063138 35.612185 264.000000</gx:coord>
+<gx:coord>139.063522 35.611330 258.000000</gx:coord>
+<gx:coord>139.062115 35.610277 263.000000</gx:coord>
+<gx:coord>139.061256 35.609830 278.000000</gx:coord>
+<gx:coord>139.060741 35.609315 286.000000</gx:coord>
+<gx:coord>139.060227 35.608972 291.000000</gx:coord>
+<gx:coord>139.059583 35.608268 295.000000</gx:coord>
+<gx:coord>139.057845 35.607118 296.000000</gx:coord>
+<gx:coord>139.056815 35.606860 297.000000</gx:coord>
+<gx:coord>139.055806 35.606689 305.000000</gx:coord>
+<gx:coord>139.054454 35.606534 319.000000</gx:coord>
+<gx:coord>139.052824 35.606466 336.000000</gx:coord>
+<gx:coord>139.051665 35.606002 338.000000</gx:coord>
+<gx:coord>139.050399 35.605676 348.000000</gx:coord>
+<gx:coord>139.047888 35.604200 348.000000</gx:coord>
+<gx:coord>139.046386 35.603650 352.000000</gx:coord>
+<gx:coord>139.044283 35.602380 313.000000</gx:coord>
+<gx:coord>139.042910 35.602483 310.000000</gx:coord>
+<gx:coord>139.041751 35.602929 316.000000</gx:coord>
+<gx:coord>139.040121 35.603256 315.000000</gx:coord>
+<gx:coord>139.039219 35.603547 317.000000</gx:coord>
+<gx:coord>139.038404 35.604663 328.000000</gx:coord>
+<gx:coord>139.037512 35.605766 329.000000</gx:coord>
+<gx:coord>139.036608 35.606547 319.000000</gx:coord>
+<gx:coord>139.035951 35.606942 311.000000</gx:coord>
+<gx:coord>139.035120 35.607672 307.000000</gx:coord>
+<gx:coord>139.034389 35.607957 307.000000</gx:coord>
+<gx:coord>139.033047 35.608015 313.000000</gx:coord>
+<gx:coord>139.033010 35.608271 317.000000</gx:coord>
+<gx:coord>139.032545 35.608673 326.000000</gx:coord>
+<gx:coord>139.032179 35.608549 325.000000</gx:coord>
+<gx:coord>139.032053 35.608045 317.000000</gx:coord>
+<gx:coord>139.030679 35.607272 308.000000</gx:coord>
+<gx:coord>139.030207 35.607255 310.000000</gx:coord>
+<gx:coord>139.029971 35.607015 306.000000</gx:coord>
+<gx:coord>139.030038 35.606383 302.000000</gx:coord>
+<gx:coord>139.028089 35.605359 322.000000</gx:coord>
+<gx:coord>139.027160 35.604629 328.000000</gx:coord>
+<gx:coord>139.026227 35.604218 330.000000</gx:coord>
+<gx:coord>139.025208 35.604299 337.000000</gx:coord>
+<gx:coord>139.024008 35.604189 341.000000</gx:coord>
+<gx:coord>139.023892 35.603991 337.000000</gx:coord>
+<gx:coord>139.024306 35.603633 328.000000</gx:coord>
+<gx:coord>139.024285 35.603223 320.000000</gx:coord>
+<gx:coord>139.023383 35.602711 308.000000</gx:coord>
+<gx:coord>139.022008 35.602472 302.000000</gx:coord>
+<gx:coord>139.021131 35.602929 312.000000</gx:coord>
+<gx:coord>139.020444 35.603393 322.000000</gx:coord>
+<gx:coord>139.019650 35.604148 337.000000</gx:coord>
+<gx:coord>139.017783 35.604440 337.000000</gx:coord>
+<gx:coord>139.016363 35.605091 335.000000</gx:coord>
+<gx:coord>139.015702 35.605676 337.000000</gx:coord>
+<gx:coord>139.014844 35.606036 333.000000</gx:coord>
+<gx:coord>139.014178 35.606860 335.000000</gx:coord>
+<gx:coord>139.013835 35.607272 335.000000</gx:coord>
+<gx:coord>139.012787 35.607523 325.000000</gx:coord>
+<gx:coord>139.012391 35.607103 318.000000</gx:coord>
+<gx:coord>139.011153 35.607461 319.000000</gx:coord>
+<gx:coord>139.010166 35.608165 326.000000</gx:coord>
+<gx:coord>139.009887 35.608474 330.000000</gx:coord>
+</gx:Track>
+</Placemark>
+</Folder>
+</Document>
+</kml>

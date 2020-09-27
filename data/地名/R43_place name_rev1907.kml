@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Style id="waypoint_n">
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<StyleMap id="waypoint">
+<Pair>
+<key>normal</key>
+<styleUrl>#waypoint_n</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#waypoint_h</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="waypoint_h">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Waypoints</name>
+<Placemark>
+<name>室蘭</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>140.971947,42.316319,2.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>植苗</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>141.699750,42.707481,6.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>早來</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>141.816983,42.765047,22.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>追分</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>141.812906,42.872839,56.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>岩見澤</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>141.764561,43.202472,17.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>瀧川</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>141.906997,43.554875,31.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>神居古潭</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>142.185325,43.724033,145.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>旭川</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>142.359539,43.769300,108.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>第七師團</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>142.367442,43.802111,-0.001000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+</Document>
+</kml>

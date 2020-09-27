@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Style id="waypoint_n">
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<StyleMap id="waypoint">
+<Pair>
+<key>normal</key>
+<styleUrl>#waypoint_n</styleUrl>
+</Pair>
+<Pair>
+<key>highlight</key>
+<styleUrl>#waypoint_h</styleUrl>
+</Pair>
+</StyleMap>
+<Style id="waypoint_h">
+<IconStyle>
+<scale>1.2</scale>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Folder>
+<name>Waypoints</name>
+<Placemark>
+<name>京都</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>135.748897,34.989164,28.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>樫原</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>135.691764,34.974750,35.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>亀岡</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>135.580542,35.009797,104.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>八木</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>135.534822,35.070608,101.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>園部</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>135.474653,35.110611,124.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>須知</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>135.427042,35.150853,215.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>檜山</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>135.376144,35.177194,184.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>下大久保</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>135.294519,35.188706,152.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>菟原</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>135.257736,35.199067,122.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>生野</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>135.213811,35.246258,64.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>福知山</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>135.128753,35.297539,13.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>立原</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>135.086394,35.334283,35.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>額田</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.996233,35.321553,89.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>矢名瀬</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.884283,35.318875,111.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>和田山</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.851006,35.341039,84.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>養父市場</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.810486,35.385981,59.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>八鹿</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.764767,35.405792,92.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>関宮</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.641972,35.376558,229.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>村岡</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.596250,35.470672,224.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>湯村</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.488206,35.555136,102.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>岩井</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.361783,35.555686,32.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+<Placemark>
+<name>鳥取</name>
+<styleUrl>#waypoint</styleUrl>
+<Point>
+<coordinates>134.237067,35.503439,16.000000</coordinates>
+</Point>
+<ExtendedData>
+	<Data name="IconNumber">
+		<value>903046</value>
+	</Data>
+</ExtendedData>
+</Placemark>
+</Folder>
+</Document>
+</kml>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Folder>
+<name>Tracks</name>
+<Placemark>
+<name>明治国道42号_海上</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/track.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<ExtendedData>
+	<Data name="LineStyle">
+		<value>11</value>
+	</Data>
+</ExtendedData>
+<gx:Track>
+<when>2020-06-24T23:00:49Z</when>
+<when>2020-06-24T23:00:59Z</when>
+<when>2020-06-24T23:01:09Z</when>
+<when>2020-06-24T23:01:19Z</when>
+<when>2020-06-24T23:01:29Z</when>
+<when>2020-06-24T23:01:39Z</when>
+<when>2020-06-24T23:01:49Z</when>
+<gx:coord>140.575997 42.108371 21.000000</gx:coord>
+<gx:coord>140.578769 42.116489 0.000000</gx:coord>
+<gx:coord>140.582994 42.122827 0.000000</gx:coord>
+<gx:coord>140.589861 42.126207 0.000000</gx:coord>
+<gx:coord>140.955367 42.310017 0.000000</gx:coord>
+<gx:coord>140.962762 42.313397 0.000000</gx:coord>
+<gx:coord>140.969989 42.314088 0.000000</gx:coord>
+</gx:Track>
+</Placemark>
+</Folder>
+</Document>
+</kml>

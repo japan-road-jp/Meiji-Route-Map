@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Folder>
+<name>Tracks</name>
+<Placemark>
+<name>明治国道56号</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>5</width>
+</LineStyle>
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/track.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<ExtendedData>
+	<Data name="LineStyle">
+		<value>1</value>
+	</Data>
+</ExtendedData>
+<gx:Track>
+<when>2020-06-28T13:55:14Z</when>
+<when>2020-06-28T13:55:24Z</when>
+<when>2020-06-28T13:55:34Z</when>
+<when>2020-06-28T13:55:44Z</when>
+<when>2020-06-28T13:55:54Z</when>
+<when>2020-06-28T13:56:04Z</when>
+<when>2020-06-28T13:56:14Z</when>
+<when>2020-06-28T13:56:24Z</when>
+<when>2020-06-28T13:56:34Z</when>
+<when>2020-06-28T13:56:44Z</when>
+<gx:coord>133.918420 34.669183 3.000000</gx:coord>
+<gx:coord>133.918441 34.671106 3.000000</gx:coord>
+<gx:coord>133.918441 34.671673 3.000000</gx:coord>
+<gx:coord>133.919665 34.673801 3.000000</gx:coord>
+<gx:coord>133.920845 34.675689 4.000000</gx:coord>
+<gx:coord>133.921102 34.676359 4.000000</gx:coord>
+<gx:coord>133.920973 34.679603 4.000000</gx:coord>
+<gx:coord>133.920694 34.681835 4.000000</gx:coord>
+<gx:coord>133.919901 34.681801 4.000000</gx:coord>
+<gx:coord>133.919750 34.686899 6.000000</gx:coord>
+</gx:Track>
+</Placemark>
+</Folder>
+</Document>
+</kml>

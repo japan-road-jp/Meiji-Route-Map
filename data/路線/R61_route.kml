@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Folder>
+<name>明治国道61号</name>
+<Placemark>
+<name>明治国道61号</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>5</width>
+</LineStyle>
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/track.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<ExtendedData>
+	<Data name="LineStyle">
+		<value>1</value>
+	</Data>
+</ExtendedData>
+<gx:Track>
+<when>2020-06-13T12:34:16Z</when>
+<when>2020-06-13T12:34:26Z</when>
+<when>2020-06-13T12:34:36Z</when>
+<when>2020-06-13T12:34:46Z</when>
+<when>2020-06-13T12:34:56Z</when>
+<when>2020-06-13T12:35:06Z</when>
+<when>2020-06-13T12:35:16Z</when>
+<when>2020-06-13T12:35:26Z</when>
+<when>2020-06-13T12:35:36Z</when>
+<when>2020-06-13T12:35:46Z</when>
+<when>2020-06-13T12:35:56Z</when>
+<when>2020-06-13T12:36:06Z</when>
+<when>2020-06-13T12:36:16Z</when>
+<when>2020-06-13T12:36:26Z</when>
+<when>2020-06-13T12:36:36Z</when>
+<when>2020-06-13T12:36:46Z</when>
+<when>2020-06-13T12:36:56Z</when>
+<when>2020-06-13T12:37:06Z</when>
+<when>2020-06-13T12:37:16Z</when>
+<when>2020-06-13T12:37:26Z</when>
+<gx:coord>137.391312 34.766016 8.000000</gx:coord>
+<gx:coord>137.390551 34.764540 8.000000</gx:coord>
+<gx:coord>137.390154 34.763991 7.000000</gx:coord>
+<gx:coord>137.389950 34.760830 6.000000</gx:coord>
+<gx:coord>137.389628 34.756126 5.000000</gx:coord>
+<gx:coord>137.389542 34.755199 5.000000</gx:coord>
+<gx:coord>137.388770 34.754392 5.000000</gx:coord>
+<gx:coord>137.387868 34.753689 5.000000</gx:coord>
+<gx:coord>137.387783 34.753397 5.000000</gx:coord>
+<gx:coord>137.387933 34.752109 5.000000</gx:coord>
+<gx:coord>137.387010 34.749311 6.000000</gx:coord>
+<gx:coord>137.386560 34.748213 7.000000</gx:coord>
+<gx:coord>137.386345 34.747818 8.000000</gx:coord>
+<gx:coord>137.386753 34.746942 9.000000</gx:coord>
+<gx:coord>137.386903 34.746032 10.000000</gx:coord>
+<gx:coord>137.386731 34.745603 11.000000</gx:coord>
+<gx:coord>137.386023 34.744968 11.000000</gx:coord>
+<gx:coord>137.385680 34.744539 12.000000</gx:coord>
+<gx:coord>137.385615 34.743818 13.000000</gx:coord>
+<gx:coord>137.385551 34.742196 17.000000</gx:coord>
+</gx:Track>
+</Placemark>
+</Folder>
+</Document>
+</kml>
