@@ -6,7 +6,7 @@
 
 　　国道表（明治18年2月24日　内務省告示第6号）　http://japan.road.jp/Law/M18_NaimuK6.htm
 
-公布時に制定された国道番号は44号まででしたが，大正4年までの改正追加で最終的には61号まで（21号は甲乙あるため路線としては62路線）となりました．路線番号は[csvファイル](https://github.com/Shigeyuki-Matsunami/Meiji-Route-Map/blob/master/Meiji_Route_List.csv)
+公布時に制定された国道番号は44号まででしたが，大正4年までの改正追加で最終的には61号まで（21号は甲乙あるため路線としては62路線）となりました．路線番号は[Meiji_Route_List.csv](https://github.com/Shigeyuki-Matsunami/Meiji-Route-Map/blob/master/Meiji_Route_List.csv)
 
 年号としては大正期までまたいでおりますが，これらを総称し本データセットでは**明治国道**としております．
 明治国道は日本橋を起点として開港場，県庁所在地，鎮守府，師団を結ぶ道を指定していることに特徴があります．
