@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Folder>
+<name>Tracks</name>
+<Placemark>
+<name>明治国道30号_兵庫_海上区間</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>2</width>
+</LineStyle>
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/track.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<ExtendedData>
+	<Data name="LineStyle">
+		<value>11</value>
+	</Data>
+</ExtendedData>
+<gx:Track>
+<when>2020-06-29T13:24:00Z</when>
+<when>2020-06-29T13:24:10Z</when>
+<when>2020-06-29T13:24:20Z</when>
+<when>2020-06-29T13:24:30Z</when>
+<when>2020-06-29T13:24:40Z</when>
+<when>2020-06-29T13:24:50Z</when>
+<when>2020-06-29T13:25:00Z</when>
+<when>2020-06-29T13:25:10Z</when>
+<when>2020-06-29T13:25:20Z</when>
+<when>2020-06-29T13:25:30Z</when>
+<when>2020-06-29T13:25:40Z</when>
+<when>2020-06-29T13:25:50Z</when>
+<when>2020-06-29T13:26:00Z</when>
+<when>2020-06-29T13:26:10Z</when>
+<when>2020-06-29T13:26:20Z</when>
+<when>2020-06-29T13:26:30Z</when>
+<when>2020-06-29T13:26:40Z</when>
+<when>2020-06-29T13:26:50Z</when>
+<when>2020-06-29T13:27:00Z</when>
+<when>2020-06-29T13:27:10Z</when>
+<gx:coord>134.991655 34.643400 0.000000</gx:coord>
+<gx:coord>134.990840 34.642833 0.000000</gx:coord>
+<gx:coord>134.990647 34.642146 0.000000</gx:coord>
+<gx:coord>134.991076 34.640773 0.000000</gx:coord>
+<gx:coord>134.991591 34.638542 0.000000</gx:coord>
+<gx:coord>134.993586 34.633598 0.000000</gx:coord>
+<gx:coord>134.994788 34.631057 0.000000</gx:coord>
+<gx:coord>135.000968 34.622405 0.000000</gx:coord>
+<gx:coord>135.004573 34.617874 0.000000</gx:coord>
+<gx:coord>135.008693 34.611900 0.000000</gx:coord>
+<gx:coord>135.011525 34.607711 0.000000</gx:coord>
+<gx:coord>135.015130 34.600845 0.000000</gx:coord>
+<gx:coord>135.016396 34.595180 1.000000</gx:coord>
+<gx:coord>135.017104 34.594150 1.000000</gx:coord>
+<gx:coord>135.017898 34.593137 1.000000</gx:coord>
+<gx:coord>135.018263 34.592433 1.000000</gx:coord>
+<gx:coord>135.018584 34.591815 1.000000</gx:coord>
+<gx:coord>135.018520 34.591215 1.000000</gx:coord>
+<gx:coord>135.018070 34.590940 3.000000</gx:coord>
+<gx:coord>135.017254 34.590751 6.000000</gx:coord>
+</gx:Track>
+</Placemark>
+</Folder>
+</Document>
+</kml>

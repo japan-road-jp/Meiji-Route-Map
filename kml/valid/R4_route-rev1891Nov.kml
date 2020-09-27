@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Folder>
+<name>明治国道4号_1891年11月改正</name>
+<Placemark>
+<name>明治国道4号_福岡-rev1891</name>
+<Style>
+<LineStyle>
+ <color>ff0000ff</color>
+ <width>5</width>
+</LineStyle>
+<IconStyle>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/shapes/track.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<ExtendedData>
+	<Data name="LineStyle">
+		<value>1</value>
+	</Data>
+</ExtendedData>
+<gx:Track>
+<when>2020-06-28T03:26:46Z</when>
+<when>2020-06-28T03:26:56Z</when>
+<when>2020-06-28T03:27:06Z</when>
+<when>2020-06-28T03:27:16Z</when>
+<when>2020-06-28T03:27:26Z</when>
+<when>2020-06-28T03:27:36Z</when>
+<when>2020-06-28T03:27:46Z</when>
+<when>2020-06-28T03:27:56Z</when>
+<when>2020-06-28T03:28:06Z</when>
+<when>2020-06-28T03:28:16Z</when>
+<when>2020-06-28T03:28:26Z</when>
+<when>2020-06-28T03:28:36Z</when>
+<when>2020-06-28T03:28:46Z</when>
+<when>2020-06-28T03:28:56Z</when>
+<when>2020-06-28T03:29:06Z</when>
+<when>2020-06-28T03:29:16Z</when>
+<when>2020-06-28T03:29:26Z</when>
+<when>2020-06-28T03:29:36Z</when>
+<when>2020-06-28T03:29:46Z</when>
+<when>2020-06-28T03:29:56Z</when>
+<when>2020-06-28T03:30:06Z</when>
+<when>2020-06-28T03:30:16Z</when>
+<when>2020-06-28T03:30:26Z</when>
+<when>2020-06-28T03:30:36Z</when>
+<when>2020-06-28T03:30:46Z</when>
+<when>2020-06-28T03:30:56Z</when>
+<when>2020-06-28T03:31:06Z</when>
+<when>2020-06-28T03:31:16Z</when>
+<when>2020-06-28T05:57:47Z</when>
+<when>2020-06-28T05:57:57Z</when>
+<when>2020-06-28T05:58:07Z</when>
+<when>2020-06-28T05:58:17Z</when>
+<when>2020-06-28T05:58:27Z</when>
+<when>2020-06-28T05:58:37Z</when>
+<when>2020-06-28T05:58:47Z</when>
+<when>2020-06-28T05:58:57Z</when>
+<gx:coord>130.961527 33.945825 2.000000</gx:coord>
+<gx:coord>130.963930 33.944435 6.000000</gx:coord>
+<gx:coord>130.963029 33.943336 15.000000</gx:coord>
+<gx:coord>130.962062 33.943103 15.000000</gx:coord>
+<gx:coord>130.961354 33.942794 15.000000</gx:coord>
+<gx:coord>130.960839 33.942433 14.000000</gx:coord>
+<gx:coord>130.959509 33.942141 9.000000</gx:coord>
+<gx:coord>130.959145 33.941190 30.000000</gx:coord>
+<gx:coord>130.958264 33.940751 40.000000</gx:coord>
+<gx:coord>130.957148 33.940940 28.000000</gx:coord>
+<gx:coord>130.955754 33.940408 27.000000</gx:coord>
+<gx:coord>130.955196 33.940030 27.000000</gx:coord>
+<gx:coord>130.954101 33.939721 26.000000</gx:coord>
+<gx:coord>130.952792 33.939086 26.000000</gx:coord>
+<gx:coord>130.951678 33.938238 25.000000</gx:coord>
+<gx:coord>130.950733 33.937283 23.000000</gx:coord>
+<gx:coord>130.949810 33.936167 26.000000</gx:coord>
+<gx:coord>130.949273 33.935326 36.000000</gx:coord>
+<gx:coord>130.947750 33.933713 32.000000</gx:coord>
+<gx:coord>130.946870 33.932820 23.000000</gx:coord>
+<gx:coord>130.946355 33.932151 21.000000</gx:coord>
+<gx:coord>130.946119 33.931395 21.000000</gx:coord>
+<gx:coord>130.945626 33.930606 21.000000</gx:coord>
+<gx:coord>130.944596 33.929953 14.000000</gx:coord>
+<gx:coord>130.943909 33.928769 14.000000</gx:coord>
+<gx:coord>130.943802 33.927739 13.000000</gx:coord>
+<gx:coord>130.943845 33.926228 14.000000</gx:coord>
+<gx:coord>130.943866 33.925215 14.000000</gx:coord>
+<gx:coord>130.943867 33.924985 14.000000</gx:coord>
+<gx:coord>130.943631 33.923835 15.000000</gx:coord>
+<gx:coord>130.942773 33.921844 12.000000</gx:coord>
+<gx:coord>130.941893 33.919921 9.000000</gx:coord>
+<gx:coord>130.940348 33.916711 11.000000</gx:coord>
+<gx:coord>130.938653 33.913295 7.000000</gx:coord>
+<gx:coord>130.938095 33.912248 6.000000</gx:coord>
+<gx:coord>130.936100 33.906909 6.000000</gx:coord>
+</gx:Track>
+</Placemark>
+</Folder>
+</Document>
+</kml>
