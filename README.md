@@ -62,7 +62,7 @@
   * 当時の測量水準による誤差
   * クロッピングによる誤差
   
-  【表示例-1】 カシミール３Dにて路線と地名を表示した場合
+  【表示例-1】 カシミール３Dで地理院タイル（新板-淡色）に路線と地名を表示した場合
      <img src="Meiji_1.jpg" width="800px">
      
   【表示例-2】 Google Earthにて路線を表示した場合   
@@ -70,7 +70,7 @@
 
 
 ## ライセンス（著作権について）
-* このデータセットはクリエイティブ・コモンズの[**CC BY-NC-SA 4.0**（表示 - 非営利 - 継承 4.0 国際）](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)の下に提供されています。
+* このデータセットはクリエイティブ・コモンズの[**CC BY-NC-SA 4.0**（表示 - 非営利 - 継承 4.0 国際）](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)の下に提供されています．
 
 　　　　　<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
