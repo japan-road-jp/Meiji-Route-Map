@@ -68,7 +68,9 @@
   【表示例-2】 Google Earthにて路線を表示した場合   
    <img src="img/Meiji_2.jpg" width="800px">
 
-
+  【表示例-3】 カシミール３Dのタイルマップで今昔マップ「京阪神圏」（1892-1910）の旧版地形図に路線を表示した場合
+     <img src="img/Meiji_3.jpg" width="800px">
+     
 ## ライセンス（著作権について）
 * このデータセットはクリエイティブ・コモンズの[**CC BY-NC-SA 4.0**（表示 - 非営利 - 継承 4.0 国際）](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)の下に提供されています．
 
