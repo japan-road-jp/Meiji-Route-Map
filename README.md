@@ -57,7 +57,12 @@
 1. ダウンロードは「Code」のボタンを押すとzip形式で本リポジトリ内のドキュメントが全てダウンロードされます
 1. zipを解凍して「data」フォルダ内のKMLファイルが出力されます．
 1. KML対応のGISソフト（Google Earth, カシミール3Dなど）にドラッグ＆ドロップすると表示がなされます．  
-   <img src="Meiji_1.jpg" width="400px"><img src="Meiji_2.jpg" width="400px">
+
+   <img src="Meiji_1.jpg" width="1000px">
+   カシミール３Dに表示した例
+   <img src="Meiji_2.jpg" width="1000px">
+   Google Earthにて表示した例
+   
 1. 過去の地形図（日本測地系）との対比の場合には，以下の理由によるズレが生じるため補正などの必要があります．　　
   * 日本測地系と世界測地系とのズレ
   * 当時の測量水準による誤差
