@@ -63,10 +63,10 @@
   * クロッピングによる誤差
   
   【表示例-1】 カシミール３Dで地理院タイル（新板-淡色）に路線と地名を表示した場合
-     <img src="Meiji_1.jpg" width="800px">
+     <img src="img/Meiji_1.jpg" width="800px">
      
   【表示例-2】 Google Earthにて路線を表示した場合   
-   <img src="Meiji_2.jpg" width="800px">
+   <img src="img/Meiji_2.jpg" width="800px">
 
 
 ## ライセンス（著作権について）
