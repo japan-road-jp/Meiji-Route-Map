@@ -56,21 +56,20 @@
 
 1. ダウンロードは「Code」のボタンを押すとzip形式で本リポジトリ内のドキュメントが全てダウンロードされます
 1. zipを解凍して「data」フォルダ内のKMLファイルが出力されます．
-1. KML対応のGISソフト（Google Earth, カシミール3Dなど）にドラッグ＆ドロップすると表示がなされます．  
-
-   <img src="Meiji_1.jpg" width="1000px">
-   カシミール３Dに表示した例
-   <img src="Meiji_2.jpg" width="1000px">
-   Google Earthにて表示した例
-   
+1. KML対応のGISソフト（Google Earth, カシミール3Dなど）にドラッグ＆ドロップすると表示がなされます．     
 1. 過去の地形図（日本測地系）との対比の場合には，以下の理由によるズレが生じるため補正などの必要があります．　　
   * 日本測地系と世界測地系とのズレ
   * 当時の測量水準による誤差
   * クロッピングによる誤差
+  
+  【表示例-1】 カシミール３Dにて路線と地名を表示した場合
+     <img src="Meiji_1.jpg" width="800px">
+     
+  【表示例-2】 Google Earthにて路線を表示した場合   
+   <img src="Meiji_2.jpg" width="800px">
+
 
 ## ライセンス（著作権について）
-
-
 * このデータセットはクリエイティブ・コモンズの[**CC BY-NC-SA 4.0**（表示 - 非営利 - 継承 4.0 国際）](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)の下に提供されています。
 
 　　　　　<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
@@ -80,5 +79,4 @@
 ## コンタクト先
 比定の誤りが認められる場合，商用・営利目的での利用は「コンタクト先」でご連絡をいただければ幸いです．  
 japan.road.jp@gmail.com （国道愛好家　松波宛）
-  
   
