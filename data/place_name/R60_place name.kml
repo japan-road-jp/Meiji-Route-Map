@@ -27,12 +27,12 @@
 </IconStyle>
 </Style>
 <Folder>
-<name>明治国道60号_地名</name>
+<name>Waypoints</name>
 <Placemark>
 <name>第十四師団</name>
 <styleUrl>#waypoint</styleUrl>
 <Point>
-<coordinates>139.864589,36.580886,135.000000</coordinates>
+<coordinates>139.868135,36.579384,-1.000000</coordinates>
 </Point>
 <ExtendedData>
 	<Data name="IconNumber">
