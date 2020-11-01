@@ -44,7 +44,7 @@
 <name>宇都宮</name>
 <styleUrl>#waypoint</styleUrl>
 <Point>
-<coordinates>139.879919,36.561722,119.000000</coordinates>
+<coordinates>139.875688,36.561935,-1.000000</coordinates>
 </Point>
 <ExtendedData>
 	<Data name="IconNumber">
