@@ -38,7 +38,7 @@
 1. 宮崎県情報政策課：「ひなたGIS」＞　日本版MapWarper 5万分の1  
   https://hgis.pref.miyazaki.lg.jp/hinata/
   
-1. 「九州Q地図」＞　陸地測量部・国土地理院等作成図  
+1. 全国Q地図（旧・九州Q地図）＞　陸地測量部・国土地理院等作成図  
   https://info.qchizu.xyz/
 
 1. 国土地理院：　「地図・空中写真・地理調査」＞　図版履歴（旧版地図）  
