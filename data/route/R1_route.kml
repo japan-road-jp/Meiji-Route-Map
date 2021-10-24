@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 <Folder>
-<name>明治国道1号</name>
+<name>Tracks</name>
 <Placemark>
 <name>明治国道1号</name>
 <Style>
@@ -22,6 +22,157 @@
 	</Data>
 </ExtendedData>
 <gx:Track>
+<when>2020-06-07T01:05:20Z</when>
+<when>2020-06-07T01:05:30Z</when>
+<when>2020-06-07T01:05:40Z</when>
+<when>2020-06-07T01:05:50Z</when>
+<when>2020-06-07T01:06:00Z</when>
+<when>2020-06-07T01:06:10Z</when>
+<when>2020-06-07T01:06:20Z</when>
+<when>2020-06-07T01:06:30Z</when>
+<when>2020-06-07T01:06:40Z</when>
+<when>2020-06-07T01:06:50Z</when>
+<when>2020-06-07T01:07:00Z</when>
+<when>2020-06-07T01:07:10Z</when>
+<when>2020-06-07T01:07:20Z</when>
+<when>2020-06-07T01:07:30Z</when>
+<when>2020-06-07T01:07:40Z</when>
+<when>2020-06-07T01:07:50Z</when>
+<when>2020-06-07T01:08:00Z</when>
+<when>2020-06-07T01:08:10Z</when>
+<when>2020-06-07T01:08:20Z</when>
+<when>2020-06-07T01:08:30Z</when>
+<when>2020-06-07T01:08:40Z</when>
+<when>2020-06-07T01:08:50Z</when>
+<when>2020-06-07T01:09:00Z</when>
+<when>2020-06-07T01:09:10Z</when>
+<when>2020-06-07T01:09:20Z</when>
+<when>2020-06-07T01:09:30Z</when>
+<when>2020-06-07T01:09:40Z</when>
+<when>2020-06-07T01:09:50Z</when>
+<when>2020-06-07T01:10:00Z</when>
+<when>2020-06-07T01:10:10Z</when>
+<when>2020-06-07T01:10:20Z</when>
+<when>2020-06-07T01:10:30Z</when>
+<when>2020-06-07T01:10:40Z</when>
+<when>2020-06-07T01:10:50Z</when>
+<when>2020-06-07T01:11:00Z</when>
+<when>2020-06-07T01:11:10Z</when>
+<when>2020-06-07T01:11:20Z</when>
+<when>2020-06-07T01:11:30Z</when>
+<when>2020-06-07T01:11:40Z</when>
+<when>2020-06-07T01:11:50Z</when>
+<when>2020-06-07T01:12:00Z</when>
+<when>2020-06-07T01:12:10Z</when>
+<when>2020-06-07T01:12:20Z</when>
+<when>2020-06-07T01:12:30Z</when>
+<when>2020-06-07T01:12:40Z</when>
+<when>2020-06-07T01:12:50Z</when>
+<when>2020-06-07T01:13:00Z</when>
+<when>2020-06-07T01:13:10Z</when>
+<when>2020-06-07T01:13:20Z</when>
+<when>2020-06-07T01:13:30Z</when>
+<when>2020-06-07T01:13:40Z</when>
+<when>2020-06-07T01:13:50Z</when>
+<when>2020-06-07T01:14:00Z</when>
+<when>2020-06-07T01:14:10Z</when>
+<when>2020-06-07T01:14:20Z</when>
+<when>2020-06-07T01:14:30Z</when>
+<when>2020-06-07T01:14:40Z</when>
+<when>2020-06-07T01:14:50Z</when>
+<when>2020-06-07T01:15:00Z</when>
+<when>2020-06-07T01:15:10Z</when>
+<when>2020-06-07T01:15:20Z</when>
+<when>2020-06-07T01:15:30Z</when>
+<when>2020-06-07T01:15:40Z</when>
+<when>2020-06-07T01:15:50Z</when>
+<when>2020-06-07T01:16:00Z</when>
+<when>2020-06-07T01:16:10Z</when>
+<when>2020-06-07T01:16:20Z</when>
+<when>2020-06-07T01:16:30Z</when>
+<when>2020-06-07T01:16:40Z</when>
+<when>2020-06-07T01:16:50Z</when>
+<when>2020-06-07T01:17:00Z</when>
+<when>2020-06-07T01:17:10Z</when>
+<when>2020-06-07T01:17:20Z</when>
+<when>2020-06-07T01:17:30Z</when>
+<when>2020-06-07T01:17:40Z</when>
+<when>2020-06-07T01:17:50Z</when>
+<when>2020-06-07T01:18:00Z</when>
+<when>2020-06-07T01:18:10Z</when>
+<when>2020-06-07T01:18:20Z</when>
+<when>2020-06-07T01:18:30Z</when>
+<when>2020-06-07T01:18:40Z</when>
+<when>2020-06-07T01:18:50Z</when>
+<when>2020-06-07T01:19:00Z</when>
+<when>2020-06-07T01:19:10Z</when>
+<when>2020-06-07T01:19:20Z</when>
+<when>2020-06-07T01:19:30Z</when>
+<when>2020-06-07T01:19:40Z</when>
+<when>2020-06-07T01:19:50Z</when>
+<when>2020-06-07T01:20:00Z</when>
+<when>2020-06-07T01:20:10Z</when>
+<when>2020-06-07T01:20:20Z</when>
+<when>2020-06-07T01:10:47Z</when>
+<when>2020-06-07T01:10:57Z</when>
+<when>2020-06-07T01:11:07Z</when>
+<when>2020-06-07T01:11:17Z</when>
+<when>2020-06-07T01:11:27Z</when>
+<when>2020-06-07T01:11:37Z</when>
+<when>2020-06-07T01:11:47Z</when>
+<when>2020-06-07T01:11:57Z</when>
+<when>2020-06-07T01:12:07Z</when>
+<when>2020-06-07T01:12:17Z</when>
+<when>2020-06-07T01:12:27Z</when>
+<when>2020-06-07T01:12:37Z</when>
+<when>2020-06-07T01:12:47Z</when>
+<when>2020-06-07T01:12:57Z</when>
+<when>2020-06-07T01:13:07Z</when>
+<when>2020-06-07T01:13:17Z</when>
+<when>2020-06-07T01:13:27Z</when>
+<when>2020-06-07T01:13:37Z</when>
+<when>2020-06-07T01:13:47Z</when>
+<when>2020-06-07T01:13:57Z</when>
+<when>2020-06-07T01:14:07Z</when>
+<when>2020-06-07T01:14:17Z</when>
+<when>2020-06-07T01:14:27Z</when>
+<when>2020-06-07T01:14:37Z</when>
+<when>2020-06-07T01:14:47Z</when>
+<when>2020-06-07T01:14:57Z</when>
+<when>2020-06-07T01:15:07Z</when>
+<when>2020-06-07T01:15:17Z</when>
+<when>2020-06-07T01:15:27Z</when>
+<when>2020-06-07T01:15:37Z</when>
+<when>2020-06-07T01:15:47Z</when>
+<when>2020-06-07T01:15:57Z</when>
+<when>2020-06-07T01:16:07Z</when>
+<when>2020-06-07T01:16:17Z</when>
+<when>2020-06-07T01:16:27Z</when>
+<when>2020-06-07T01:16:37Z</when>
+<when>2020-06-07T01:16:47Z</when>
+<when>2020-06-07T01:16:57Z</when>
+<when>2020-06-07T01:17:07Z</when>
+<when>2020-06-07T01:17:17Z</when>
+<when>2020-06-07T01:17:27Z</when>
+<when>2020-06-07T01:17:37Z</when>
+<when>2020-06-07T01:17:47Z</when>
+<when>2020-06-07T01:17:57Z</when>
+<when>2020-06-07T01:18:07Z</when>
+<when>2020-06-07T01:18:17Z</when>
+<when>2020-06-07T01:18:27Z</when>
+<when>2020-06-07T01:18:37Z</when>
+<when>2020-06-07T01:18:47Z</when>
+<when>2020-06-07T01:18:57Z</when>
+<when>2020-06-07T01:19:07Z</when>
+<when>2020-06-07T01:19:17Z</when>
+<when>2020-06-07T01:19:27Z</when>
+<when>2020-06-07T01:19:37Z</when>
+<when>2020-06-07T01:19:47Z</when>
+<when>2020-06-07T01:19:57Z</when>
+<when>2020-06-07T01:20:07Z</when>
+<when>2020-06-07T01:20:17Z</when>
+<when>2020-06-07T01:20:27Z</when>
+<when>2020-06-07T01:20:37Z</when>
 <gx:coord>139.774540 35.684151 3.000000</gx:coord>
 <gx:coord>139.774304 35.683465 3.000000</gx:coord>
 <gx:coord>139.773747 35.682521 3.000000</gx:coord>
@@ -156,16 +307,16 @@
 <gx:coord>139.631407 35.471291 5.000000</gx:coord>
 <gx:coord>139.630720 35.470776 4.000000</gx:coord>
 <gx:coord>139.626922 35.470742 6.000000</gx:coord>
-<gx:coord>139.624991 35.468459 8.000000</gx:coord>
+<gx:coord>139.625156 35.468515 -1.000000</gx:coord>
 <gx:coord>139.624090 35.467274 9.000000</gx:coord>
-<gx:coord>139.623682 35.466468 8.000000</gx:coord>
-<gx:coord>139.623103 35.464700 6.000000</gx:coord>
+<gx:coord>139.623382 35.466281 -1.000000</gx:coord>
+<gx:coord>139.622799 35.465100 -1.000000</gx:coord>
 <gx:coord>139.622609 35.464150 6.000000</gx:coord>
 <gx:coord>139.622631 35.462691 4.000000</gx:coord>
 <gx:coord>139.623167 35.460906 3.000000</gx:coord>
-<gx:coord>139.623554 35.460374 3.000000</gx:coord>
-<gx:coord>139.626729 35.456546 2.000000</gx:coord>
-<gx:coord>139.628146 35.457232 3.000000</gx:coord>
+<gx:coord>139.623817 35.459744 -1.000000</gx:coord>
+<gx:coord>139.626593 35.456410 -1.000000</gx:coord>
+<gx:coord>139.628224 35.457114 -1.000000</gx:coord>
 <gx:coord>139.631257 35.453318 0.000000</gx:coord>
 <gx:coord>139.632351 35.452151 0.000000</gx:coord>
 <gx:coord>139.632180 35.450864 1.000000</gx:coord>
