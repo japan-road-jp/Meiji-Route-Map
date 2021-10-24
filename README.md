@@ -1,5 +1,5 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>　
-# 明治期における国道（明治国道）の比定路線および経過地のKMLデータセット
+# 明治期における国道（明治国道）の比定路線および経過地のKMLデータセット（2021.10.24アップデート）
 
 
 
