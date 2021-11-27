@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
 <Document>
 <Folder>
 <name>Tracks</name>
@@ -7,8 +7,8 @@
 <name>明治国道30号_兵庫_海上区間</name>
 <Style>
 <LineStyle>
- <color>ff0000ff</color>
- <width>2</width>
+<color>ff0000ff</color>
+<width>2</width>
 </LineStyle>
 <IconStyle>
 <Icon>
@@ -17,31 +17,31 @@
 </IconStyle>
 </Style>
 <ExtendedData>
-	<Data name="LineStyle">
-		<value>11</value>
-	</Data>
+<Data name="LineStyle">
+<value>11</value>
+</Data>
 </ExtendedData>
 <gx:Track>
-<when>2020-06-29T13:24:00Z</when>
-<when>2020-06-29T13:24:10Z</when>
-<when>2020-06-29T13:24:20Z</when>
-<when>2020-06-29T13:24:30Z</when>
-<when>2020-06-29T13:24:40Z</when>
-<when>2020-06-29T13:24:50Z</when>
-<when>2020-06-29T13:25:00Z</when>
-<when>2020-06-29T13:25:10Z</when>
-<when>2020-06-29T13:25:20Z</when>
-<when>2020-06-29T13:25:30Z</when>
-<when>2020-06-29T13:25:40Z</when>
-<when>2020-06-29T13:25:50Z</when>
-<when>2020-06-29T13:26:00Z</when>
-<when>2020-06-29T13:26:10Z</when>
-<when>2020-06-29T13:26:20Z</when>
-<when>2020-06-29T13:26:30Z</when>
-<when>2020-06-29T13:26:40Z</when>
-<when>2020-06-29T13:26:50Z</when>
-<when>2020-06-29T13:27:00Z</when>
-<when>2020-06-29T13:27:10Z</when>
+<when>2000-01-01T00:01:00Z</when>
+<when>2000-01-01T00:02:00Z</when>
+<when>2000-01-01T00:03:00Z</when>
+<when>2000-01-01T00:04:00Z</when>
+<when>2000-01-01T00:05:00Z</when>
+<when>2000-01-01T00:06:00Z</when>
+<when>2000-01-01T00:07:00Z</when>
+<when>2000-01-01T00:08:00Z</when>
+<when>2000-01-01T00:09:00Z</when>
+<when>2000-01-01T00:10:00Z</when>
+<when>2000-01-01T00:11:00Z</when>
+<when>2000-01-01T00:12:00Z</when>
+<when>2000-01-01T00:13:00Z</when>
+<when>2000-01-01T00:14:00Z</when>
+<when>2000-01-01T00:15:00Z</when>
+<when>2000-01-01T00:16:00Z</when>
+<when>2000-01-01T00:17:00Z</when>
+<when>2000-01-01T00:18:00Z</when>
+<when>2000-01-01T00:19:00Z</when>
+<when>2000-01-01T00:20:00Z</when>
 <gx:coord>134.991655 34.643400 0.000000</gx:coord>
 <gx:coord>134.990840 34.642833 0.000000</gx:coord>
 <gx:coord>134.990647 34.642146 0.000000</gx:coord>

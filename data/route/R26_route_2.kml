@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
 <Document>
 <Folder>
 <name>Tracks</name>
@@ -7,8 +7,8 @@
 <name>明治国道26号_2</name>
 <Style>
 <LineStyle>
- <color>ff0000ff</color>
- <width>5</width>
+<color>ff0000ff</color>
+<width>5</width>
 </LineStyle>
 <IconStyle>
 <Icon>
@@ -17,13 +17,13 @@
 </IconStyle>
 </Style>
 <ExtendedData>
-	<Data name="LineStyle">
-		<value>1</value>
-	</Data>
+<Data name="LineStyle">
+<value>1</value>
+</Data>
 </ExtendedData>
 <gx:Track>
-<when>2020-06-28T21:57:08Z</when>
-<when>2020-06-28T21:57:18Z</when>
+<when>2000-01-01T00:01:00Z</when>
+<when>2000-01-01T00:02:00Z</when>
 <gx:coord>132.457130 34.393676 2.000000</gx:coord>
 <gx:coord>132.457687 34.395255 3.000000</gx:coord>
 </gx:Track>
