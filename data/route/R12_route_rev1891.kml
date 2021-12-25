@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
 <Folder>
-<name>明治国道12号_1891年改正</name>
+<name>Tracks</name>
 <Placemark>
-<name>明治国道12号_1891年改正</name>
+<name>明治国道12号_1891改正</name>
 <Style>
 <LineStyle>
-<color>ff0000ff</color>
-<width>5</width>
+ <color>ff0000ff</color>
+ <width>5</width>
 </LineStyle>
 <IconStyle>
 <Icon>
@@ -17,13 +17,67 @@
 </IconStyle>
 </Style>
 <ExtendedData>
-<Data name="LineStyle">
-<value>1</value>
-</Data>
+	<Data name="LineStyle">
+		<value>1</value>
+	</Data>
 </ExtendedData>
 <gx:Track>
-<gx:coord>139.279925 36.195194 38.000000</gx:coord>
-<gx:coord>139.280944 36.197588 36.000000</gx:coord>
+<when>2020-07-21T21:54:51Z</when>
+<when>2020-07-21T21:54:56Z</when>
+<when>2020-07-21T21:55:01Z</when>
+<when>2020-07-21T21:55:06Z</when>
+<when>2020-07-21T21:55:11Z</when>
+<when>2020-07-21T21:55:16Z</when>
+<when>2020-07-21T21:55:18Z</when>
+<when>2020-07-21T21:55:19Z</when>
+<when>2020-07-21T21:55:21Z</when>
+<when>2020-07-21T21:55:26Z</when>
+<when>2020-07-21T21:55:31Z</when>
+<when>2020-07-21T21:55:41Z</when>
+<when>2020-07-21T21:55:51Z</when>
+<when>2020-07-21T21:56:01Z</when>
+<when>2020-07-21T21:56:11Z</when>
+<when>2020-07-21T21:56:21Z</when>
+<when>2020-07-21T21:56:31Z</when>
+<when>2020-07-21T21:56:41Z</when>
+<when>2020-07-21T21:56:51Z</when>
+<when>2020-07-21T21:57:01Z</when>
+<when>2020-07-21T21:57:11Z</when>
+<when>2020-07-21T21:57:21Z</when>
+<when>2020-07-21T21:57:31Z</when>
+<when>2020-07-21T21:57:41Z</when>
+<when>2020-07-21T21:57:51Z</when>
+<when>2020-07-21T21:57:56Z</when>
+<when>2020-07-21T21:58:01Z</when>
+<when>2020-07-21T21:58:11Z</when>
+<when>2020-07-21T21:58:21Z</when>
+<when>2020-07-21T21:58:31Z</when>
+<when>2020-07-21T21:58:41Z</when>
+<when>2020-07-21T21:58:51Z</when>
+<when>2020-07-21T21:59:01Z</when>
+<when>2020-07-21T21:59:11Z</when>
+<when>2020-07-21T21:59:21Z</when>
+<when>2020-07-21T21:59:31Z</when>
+<when>2020-07-21T21:59:41Z</when>
+<when>2020-07-21T21:59:46Z</when>
+<when>2020-07-21T21:59:51Z</when>
+<when>2020-07-21T21:59:56Z</when>
+<when>2020-07-21T22:00:01Z</when>
+<when>2020-07-21T22:00:06Z</when>
+<when>2020-07-21T22:00:11Z</when>
+<when>2020-07-21T22:00:21Z</when>
+<when>2020-07-21T22:00:31Z</when>
+<when>2020-07-21T22:00:41Z</when>
+<when>2020-07-21T22:00:51Z</when>
+<when>2020-07-21T22:01:01Z</when>
+<when>2020-07-21T22:01:11Z</when>
+<when>2020-07-21T22:01:21Z</when>
+<when>2020-07-21T22:01:31Z</when>
+<when>2020-07-21T22:01:41Z</when>
+<gx:coord>139.282504 36.195123 -1.000000</gx:coord>
+<gx:coord>139.282718 36.196814 -1.000000</gx:coord>
+<gx:coord>139.280573 36.196745 -1.000000</gx:coord>
+<gx:coord>139.280948 36.197620 -1.000000</gx:coord>
 <gx:coord>139.279346 36.198138 36.000000</gx:coord>
 <gx:coord>139.278734 36.199151 36.000000</gx:coord>
 <gx:coord>139.278670 36.199769 36.000000</gx:coord>
@@ -45,8 +99,9 @@
 <gx:coord>139.275354 36.215776 35.000000</gx:coord>
 <gx:coord>139.274657 36.216883 35.000000</gx:coord>
 <gx:coord>139.274711 36.219269 35.000000</gx:coord>
+<gx:coord>139.274908 36.220074 -1.000000</gx:coord>
 <gx:coord>139.274839 36.221904 35.000000</gx:coord>
-<gx:coord>139.274411 36.223688 35.000000</gx:coord>
+<gx:coord>139.274264 36.223679 -1.000000</gx:coord>
 <gx:coord>139.273681 36.225027 34.000000</gx:coord>
 <gx:coord>139.274012 36.226203 35.000000</gx:coord>
 <gx:coord>139.273803 36.226950 35.000000</gx:coord>
