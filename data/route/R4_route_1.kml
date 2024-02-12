@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
 <Document>
 <Folder>
-<name>明治国道4号_本州</name>
+<name>Tracks</name>
 <Placemark>
 <name>明治国道4号_1</name>
 <Style>
@@ -8230,14 +8230,14 @@
 <gx:coord>133.935114 34.657765 5.000000</gx:coord>
 <gx:coord>133.932539 34.658072 5.000000</gx:coord>
 <gx:coord>133.930548 34.658261 6.000000</gx:coord>
-<gx:coord>133.926512 34.658533 4.000000</gx:coord>
-<gx:coord>133.926469 34.662636 4.000000</gx:coord>
-<gx:coord>133.926491 34.664078 4.000000</gx:coord>
-<gx:coord>133.926362 34.669125 4.000000</gx:coord>
+<gx:coord>133.929109 34.658368 -1.000000</gx:coord>
+<gx:coord>133.929425 34.665565 -1.000000</gx:coord>
+<gx:coord>133.925273 34.665642 -1.000000</gx:coord>
+<gx:coord>133.925262 34.669170 -1.000000</gx:coord>
 <gx:coord>133.920826 34.669159 2.000000</gx:coord>
-<gx:coord>133.916405 34.669125 2.000000</gx:coord>
-<gx:coord>133.913809 34.669108 2.000000</gx:coord>
-<gx:coord>133.910204 34.668970 3.000000</gx:coord>
+<gx:coord>133.917505 34.669093 -1.000000</gx:coord>
+<gx:coord>133.914104 34.669033 -1.000000</gx:coord>
+<gx:coord>133.911454 34.668964 -1.000000</gx:coord>
 <gx:coord>133.909303 34.668970 3.000000</gx:coord>
 <gx:coord>133.907844 34.668919 4.000000</gx:coord>
 <gx:coord>133.906921 34.668610 4.000000</gx:coord>
