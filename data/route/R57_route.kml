@@ -22,16 +22,18 @@
 </Data>
 </ExtendedData>
 <gx:Track>
-<gx:coord>138.250506 37.101410 13.000000</gx:coord>
-<gx:coord>138.250292 37.102183 12.000000</gx:coord>
-<gx:coord>138.249691 37.103007 12.000000</gx:coord>
-<gx:coord>138.249154 37.103899 11.000000</gx:coord>
-<gx:coord>138.248833 37.104723 10.000000</gx:coord>
-<gx:coord>138.249219 37.106131 10.000000</gx:coord>
-<gx:coord>138.250335 37.108826 10.000000</gx:coord>
-<gx:coord>138.252394 37.108998 10.000000</gx:coord>
-<gx:coord>138.253317 37.109530 10.000000</gx:coord>
-<gx:coord>138.253961 37.110131 10.000000</gx:coord>
+<when>2000-01-01T00:01:00Z</when>
+<when>2000-01-01T00:02:00Z</when>
+<when>2000-01-01T00:03:00Z</when>
+<when>2000-01-01T00:04:00Z</when>
+<when>2000-01-01T00:05:00Z</when>
+<when>2000-01-01T00:06:00Z</when>
+<gx:coord>138.244326 37.109289 13.000000</gx:coord>
+<gx:coord>138.246815 37.109049 12.000000</gx:coord>
+<gx:coord>138.250227 37.108723 10.000000</gx:coord>
+<gx:coord>138.252244 37.108843 9.000000</gx:coord>
+<gx:coord>138.254604 37.109118 11.000000</gx:coord>
+<gx:coord>138.256772 37.108791 12.000000</gx:coord>
 </gx:Track>
 </Placemark>
 </Folder>
