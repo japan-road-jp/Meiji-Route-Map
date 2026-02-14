@@ -1,5 +1,5 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>　
-# 明治期における国道（明治国道）の比定路線および経過地のKMLデータセット（2025.7.21アップデート）
+# 明治期における国道（明治国道）の比定路線および経過地のKMLデータセット（2026.2.14アップデート）
 
 
 
@@ -96,6 +96,7 @@ https://www.digital.archives.go.jp/das/meta/M0000000000001126850
 japan.road.jp@gmail.com （国道愛好家　くにみち宛）
   
 ## 履歴
+2026.02.14　国道2号修正  
 2025.07.21　国道5号修正  
 2025.05.06　国道14号修正    
 2024.06.23　国道5号修正、国道57号修正  
